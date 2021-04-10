@@ -1,8 +1,8 @@
 # BGV_ssn_db_lookup
 
 
-# Country Lookup Example
-This example demonstrates a privacy preserving search against an encrypted 
+# Credit Score Lookup Example
+> This example demonstrates a privacy preserving search against an encrypted 
 database and it is implemented using the [Brakerski-Gentry-Vaikuntanathan][1] 
 (BGV) scheme. The database is a key-value store pre-populated with the 
 English names of countries and their capital cities from the continent of 
