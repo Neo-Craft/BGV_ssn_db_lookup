@@ -1,4 +1,3 @@
-# BGV_ssn_db_lookup
 
 
 # Credit Score Lookup Example
